@@ -6,7 +6,6 @@
         </mt-header>
         <article>
         <h1>{{ article.title }}</h1>
-        <h2>{{ article.count }}</h2>
         <div class="article" v-html="article.content">
             <img :src="article.pic" alt="">
         </div>

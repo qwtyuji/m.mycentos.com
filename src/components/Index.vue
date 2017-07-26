@@ -152,7 +152,7 @@
     .main { padding-bottom: 40px; }
 
     .page-loadmore-wrapper {
-        overflow: hidden;
+        overflow: scroll;
     }
 
     .mint-loadmore-bottom span {
